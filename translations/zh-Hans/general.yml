@@ -10,4 +10,4 @@ target: 目标
 targets: 目标
 twitter: Twitter
 facebook: Facebook
-built_with_opensdg: 内置 Open SDG
+built_using_open_sdg: 使用 Open SDG构建
