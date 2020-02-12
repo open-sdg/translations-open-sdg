@@ -1,5 +1,5 @@
 # A label describing information - any other metadata about a particular indicator - not covered by more specific labels
-comments_limitations: Other information
+other_info: Other information
 # A label describing information - any calculations that were used in the production of a dataset
 computation_calculations: Calculations
 # A label describing information - a list of definitions of terms used within other metadata fields
@@ -98,3 +98,7 @@ target_id: Target number
 un_custodian_agency: UN custodian agency
 # A label describing information - the 'tier' (1 - 2 - or 3) that the United Nations has assigned to a particular indicator
 un_designated_tier: UN designated tier
+quality_assurance: Quality assurance
+international_comparability: Comparability with international data/standards
+comments_limitations: Comments and limitations
+rational_interpretation: Rational and interpretation
