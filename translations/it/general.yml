@@ -1,0 +1,20 @@
+# This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
+indicator: Indicatore
+# This is the plural version of the indicator key
+indicators: Indicatori
+# This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
+goal: Goal
+# This is the plural version of the goal key
+goals: Goals
+sdg: Obiettivi per lo Sviluppo Sostenibile - SDG
+# This refers to the 'home page' of a website
+home: Home
+loading: Carica i risultati della ricerca
+opens_new_window: Si apre in una nuova finestra
+target: Target
+targets: Targets
+twitter: Twitter
+facebook: Facebook
+built_using_open_sdg: Built using Open SDG
+page: Pagina
+pages: Pagine
