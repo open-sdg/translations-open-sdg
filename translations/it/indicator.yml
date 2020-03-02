@@ -44,13 +44,12 @@ table: Tabella
 map: Mappa
 loading_map: Carica Mappa
 # A button that displays the national metadata about a particular indicator - as provided by that country
-national_metadata: Metadati nazionali
-national_metadata_blurb: This table provides metadata for the actual indicator
-  available from %country_name statistics closest to the corresponding
-  global SDG indicator. Please note that even when the global SDG indicator is
-  fully available from %country_adjective statistics, this table
-  should be consulted for information on national methodology and other
-  %country_adjective-specific metadata information.
+national_metadata: Metadati nazionali o regionali
+national_metadata_blurb: Questa tabella contiene i metadati per l'indicatore
+  relativo alla statistica di %country_name scelto per il corrisponentes
+  indicatore nazionale e UN. Anche se l'indicatore globale è disponibile per le
+  statistiche a livello %country_adjective, questa tabella può essere consultata
+  per informazioni e metadati %country_adjective-specifici.
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: Global Metadata
 global_metadata_blurb: This table provides information on metadata for SDG
