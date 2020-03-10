@@ -32,10 +32,10 @@ dataset_size_warning: There are too many datasets to show on the chart. Not all
 view_indicator_list: Vai alla lista degli indicatori del goal
 # A label describing a section of the page that allows the user to filter data by sub-category
 sub_categories: Sottocategorie
-series_help: Choose categories from the dropdowns below to see different
-  breakdowns of the data. Some will not be available until a higher level is
-  chosen.
-legend_help: Click on the legend to remove individual lines from the chart.
+series_help: Nel caso in cui i dati siano raggruppati per Sottocategorie, cliccando
+  sulla categoria si possono selezionare più serie di dati. Alcuni dati non sono
+  visualizzati se non selezionati.
+legend_help: Clicca sulla legenda per non visualizzare le serie.
 # A button that displays some data in the form of a chart
 chart: Grafico
 # A button that displays some data in the form of a table (rows and columns)
@@ -52,10 +52,10 @@ national_metadata_blurb: Questa tabella contiene i metadati per l'indicatore
   per informazioni e metadati %country_adjective-specifici.
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: Global Metadata
-global_metadata_blurb: This table provides information on metadata for SDG
-  indicators as defined by the UN Statistical Commission.
-  <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a>
-  is provided by the UN Statistics Division.
+global_metadata_blurb: Qui sono riportate le informazioni sugli indicatori
+  come definiti originariamente dalla Commissione Statistica dell'ONU.
+  La <a href="https://unstats.un.org/sdgs/metadata/">Guida ONU</a>
+  riporta ulteriori dettagli.
 # A button for editing some content
 edit: Edit
 # A button for editing data
