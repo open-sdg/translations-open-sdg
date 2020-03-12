@@ -17,7 +17,7 @@ indicator_name: Nome dell'indicatore
 indicator_sort_order: numero d'ordine dell'indicatore (rispetto agli Obiettivi)
 national_data_update_url: Ultimo aggiornamento
 # A label describing information - the geographical area covered by a dataset
-national_geographical_coverage: Copertura geografica
+national_geographical_coverage: Italia e Lombardia
 national_indicator_available: Disponibilità dell'indicatore
 national_indicator_description: Descrizione dell'indicatore
 national_metadata_update_url: Ultimo aggiornamento dei metadati
@@ -29,32 +29,32 @@ source_contact_4: Dettagli del contatto
 source_contact_5: Dettagli del contatto
 source_contact_6: Dettagli del contatto
 # A label describing information - the earliest date at which data for a particular indicator was provided by a particular person or agency
-source_earliest_available_1: Dati disponibili al
-source_earliest_available_2: Dati disponibili al
-source_earliest_available_3: Dati disponibili al
-source_earliest_available_4: Dati disponibili al
-source_earliest_available_5: Dati disponibili al
+source_earliest_available_1: Dati disponibili al 2017/2018
+source_earliest_available_2: Dati disponibili al 2018
+source_earliest_available_3: Dati disponibili al 2018
+source_earliest_available_4: Dati disponibili al 2018
+source_earliest_available_5: Dati disponibili al 2018
 source_earliest_available_6: Dati disponibili al
 # A label describing information - the geographical area covered in the data provided by a particular person or agency
-source_geographical_coverage_1: Copertura geografica
-source_geographical_coverage_2: Copertura geografica
-source_geographical_coverage_3: Copertura geografica
-source_geographical_coverage_4: Copertura geografica
-source_geographical_coverage_5: Copertura geografica
+source_geographical_coverage_1: Italia
+source_geographical_coverage_2: Italia
+source_geographical_coverage_3: Lombardia
+source_geographical_coverage_4: Lombardia
+source_geographical_coverage_5: Lombardia
 source_geographical_coverage_6: Copertura geografica
 # A label describing information - the date at which a particular person or agency plans to update their provided data
-source_next_release_1: Prossima release
-source_next_release_2: Prossima release
-source_next_release_3: Prossima releasee
-source_next_release_4: Prossima release
-source_next_release_5: Prossima release
-source_next_release_6: Prossima release
+source_next_release_1: non definito
+source_next_release_2: non definito
+source_next_release_3: non definito
+source_next_release_4: non definito
+source_next_release_5: non definito
+source_next_release_6: non definito
 # A label describing information - the name of any organization associated with some provided data
-source_organisation_1: Organizzazione
-source_organisation_2: Organizzazione
-source_organisation_3: Organizzazione
-source_organisation_4: Organizzazione
-source_organisation_5: Organizzazione
+source_organisation_1: ISTAT
+source_organisation_2: ISPRA
+source_organisation_3: Regione Lombardia
+source_organisation_4: ARIA/Polis
+source_organisation_5: ARPA
 source_organisation_6: Organizzazione
 # A label describing information - any other information about a particular source of data for a particular indicator
 source_other_info_1: Altre informazioni
@@ -64,12 +64,12 @@ source_other_info_4: Altre informazioni
 source_other_info_5: Altre informazioni
 source_other_info_6: Altre informazioni
 # A label describing information - the frequency with which a particular source of data will provide updates
-source_periodicity_1: Periodicità
-source_periodicity_2: Periodicità
-source_periodicity_3: Periodicità
-source_periodicity_4: Periodicità
-source_periodicity_5: Periodicità
-source_periodicity_6: Periodicità
+source_periodicity_1: annuale
+source_periodicity_2: annuale
+source_periodicity_3: annuale
+source_periodicity_4: annuale
+source_periodicity_5: annuale
+source_periodicity_6: annuale
 # A label describing information - The date at which a particular source provided their data
 source_release_date_1: Data di rilascio
 source_release_date_2: Data di rilascio
