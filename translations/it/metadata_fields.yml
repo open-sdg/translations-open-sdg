@@ -1,0 +1,104 @@
+# A label describing information - any other metadata about a particular indicator - not covered by more specific labels
+other_info: Altre informazioni
+# A label describing information - any calculations that were used in the production of a dataset
+computation_calculations: Calcoli
+# A label describing information - a list of definitions of terms used within other metadata fields
+computation_definitions: Definizioni
+# A label describing information - the unit of measurement that is being represented in a dataset
+computation_units: Unità di misura
+# A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
+goal_meta_link: Link ai metadati UN/Nazionali
+# A label describing information - the numeric code for a particular indicator
+indicator: Numero dell'indicatore
+# A label describing information - the definition for a particular indicator - as provided by the United Nations
+indicator_definition: Descrizione dell'indicatore
+# A label describing information - the name of a particular indicator
+indicator_name: Nome dell'indicatore
+indicator_sort_order: numero d'ordine dell'indicatore (rispetto agli Obiettivi)
+national_data_update_url: Ultimo aggiornamento
+# A label describing information - the geographical area covered by a dataset
+national_geographical_coverage: Copertura geografica
+national_indicator_available: Disponibilità dell'indicatore
+national_indicator_description: Descrizione dell'indicatore
+national_metadata_update_url: Ultimo aggiornamento dei metadati
+# A label describing information - contact information for the person or agency that provided data
+source_contact_1: Dettagli del contatto
+source_contact_2: Dettagli del contatto
+source_contact_3: Dettagli del contatto
+source_contact_4: Dettagli del contatto
+source_contact_5: Dettagli del contatto
+source_contact_6: Dettagli del contatto
+# A label describing information - the earliest date at which data for a particular indicator was provided by a particular person or agency
+source_earliest_available_1: Dati disponibili al 2017/2018
+source_earliest_available_2: Dati disponibili al 2018
+source_earliest_available_3: Dati disponibili al 2018
+source_earliest_available_4: Dati disponibili al 2018
+source_earliest_available_5: Dati disponibili al 2018
+source_earliest_available_6: Dati disponibili al
+# A label describing information - the geographical area covered in the data provided by a particular person or agency
+source_geographical_coverage_1: Italia
+source_geographical_coverage_2: Italia
+source_geographical_coverage_3: Lombardia
+source_geographical_coverage_4: Lombardia
+source_geographical_coverage_5: Lombardia
+source_geographical_coverage_6: Copertura geografica
+# A label describing information - the date at which a particular person or agency plans to update their provided data
+source_next_release_1: non definito
+source_next_release_2: non definito
+source_next_release_3: non definito
+source_next_release_4: non definito
+source_next_release_5: non definito
+source_next_release_6: non definito
+# A label describing information - the name of any organization associated with some provided data
+source_organisation_1: Fonte dei dati: ISTAT
+source_organisation_2: Fonte dei dati: ISPRA
+source_organisation_3: Fonte dei dati: Regione Lombardia
+source_organisation_4: Fonte dei dati: ARIA/Polis
+source_organisation_5: Fonte dei dati: ARPA
+source_organisation_6: Fonte del dato
+# A label describing information - any other information about a particular source of data for a particular indicator
+source_other_info_1: Altre informazioni
+source_other_info_2: Altre informazioni
+source_other_info_3: Altre informazioni
+source_other_info_4: Altre informazioni
+source_other_info_5: Altre informazioni
+source_other_info_6: Altre informazioni
+# A label describing information - the frequency with which a particular source of data will provide updates
+source_periodicity_1: aggiornamento annuale
+source_periodicity_2: aggiornamento non costante
+source_periodicity_3: aggiornamento biannuale
+source_periodicity_4: label
+source_periodicity_5: label
+source_periodicity_6: label
+# A label describing information - The date at which a particular source provided their data
+source_release_date_1: Data di rilascio
+source_release_date_2: Data di rilascio
+source_release_date_3: Data di rilascio
+source_release_date_4: Data di rilascio
+source_release_date_5: Data di rilascio
+source_release_date_6: Data di rilascio
+# A label describing information - some classification of a particular source of data for a particular indicator
+source_statistical_classification_1: Classificazione statistica
+source_statistical_classification_2: Classificazione statistica
+source_statistical_classification_3: Classificazione statistica
+source_statistical_classification_4: Classificazione statistica
+source_statistical_classification_5: Classificazione statistica
+source_statistical_classification_6: Classificazione statistica
+source_url_1: Link alla fonte dei dati
+source_url_2: Link alla fonte dei dati
+source_url_3: Link alla fonte dei dati
+source_url_4: Link alla fonte dei dati
+source_url_5: Link alla fonte dei dati
+source_url_6: Link alla fonte dei dati
+# A label describing information - the overall SDG target associated with a particular indicator
+target: Nome del target
+# A label describing information - the numeric id for the overall SDG target associated with a particular indicator
+target_id: Numero del target
+# A label describing information - the United Nations custodian agency associated with a particular indicator
+un_custodian_agency: UN custodian agency
+# A label describing information - the 'tier' (1 - 2 - or 3) that the United Nations has assigned to a particular indicator
+un_designated_tier: UN designated tier
+quality_assurance: Assicurazione di qualità
+international_comparability: Comparabilità con dati nazionali/internazionali
+comments_limitations: Commenti e limitazioni
+rational_interpretation: Razionale e interpretazione

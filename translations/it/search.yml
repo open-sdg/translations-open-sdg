@@ -1,0 +1,10 @@
+search: Cerca
+# This refers to a section of the site for performing keyword searches to find particular indicators
+indicator_search: Cerca indicatori
+# A message for describing a set of search results - to be followed by whatever the user searched for. For example - if the user searched for 'foo' - this might be 'Search results for foo'
+search_results_for: Risultati della ricerca
+found_in: trovato
+keywords: Keywords
+# A message for the user - after they have performed an online search - to indicate that their search produced no results
+no_results: nessun risultato
+did_you_mean: intendevi
