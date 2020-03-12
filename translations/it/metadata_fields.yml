@@ -50,11 +50,11 @@ source_next_release_4: non definito
 source_next_release_5: non definito
 source_next_release_6: non definito
 # A label describing information - the name of any organization associated with some provided data
-source_organisation_1: ISTAT
-source_organisation_2: ISPRA
-source_organisation_3: Regione Lombardia
-source_organisation_4: ARIA/Polis
-source_organisation_5: ARPA
+source_organisation_1: Fonte dei dati: ISTAT
+source_organisation_2: Fonte dei dati: ISPRA
+source_organisation_3: Fonte dei dati: Regione Lombardia
+source_organisation_4: Fonte dei dati: ARIA/Polis
+source_organisation_5: Fonte dei dati: ARPA
 source_organisation_6: Fonte del dato
 # A label describing information - any other information about a particular source of data for a particular indicator
 source_other_info_1: Altre informazioni
@@ -64,12 +64,12 @@ source_other_info_4: Altre informazioni
 source_other_info_5: Altre informazioni
 source_other_info_6: Altre informazioni
 # A label describing information - the frequency with which a particular source of data will provide updates
-source_periodicity_1: annuale
-source_periodicity_2: annuale
-source_periodicity_3: annuale
-source_periodicity_4: annuale
-source_periodicity_5: annuale
-source_periodicity_6: annuale
+source_periodicity_1: aggiornamento annuale
+source_periodicity_2: aggiornamento non costante
+source_periodicity_3: aggiornamento biannuale
+source_periodicity_4: label
+source_periodicity_5: label
+source_periodicity_6: label
 # A label describing information - The date at which a particular source provided their data
 source_release_date_1: Data di rilascio
 source_release_date_2: Data di rilascio
