@@ -17,7 +17,7 @@ indicator_name: Nome dell'indicatore
 indicator_sort_order: numero d'ordine dell'indicatore (rispetto agli Obiettivi)
 national_data_update_url: Ultimo aggiornamento
 # A label describing information - the geographical area covered by a dataset
-national_geographical_coverage: Italia e Lombardia
+national_geographical_coverage: Copertura geografica
 national_indicator_available: Disponibilità dell'indicatore
 national_indicator_description: Descrizione dell'indicatore
 national_metadata_update_url: Ultimo aggiornamento dei metadati
@@ -55,7 +55,7 @@ source_organisation_2: ISPRA
 source_organisation_3: Regione Lombardia
 source_organisation_4: ARIA/Polis
 source_organisation_5: ARPA
-source_organisation_6: Organizzazione
+source_organisation_6: Fonte del dato
 # A label describing information - any other information about a particular source of data for a particular indicator
 source_other_info_1: Altre informazioni
 source_other_info_2: Altre informazioni
